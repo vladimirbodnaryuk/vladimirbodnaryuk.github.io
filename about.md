@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about me!
+Совсем чуть-чуть информации про меня.
 
 ### More Information
 
