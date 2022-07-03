@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Коротко
 Итак, размещение экзокортекса выбрано на github pages.
