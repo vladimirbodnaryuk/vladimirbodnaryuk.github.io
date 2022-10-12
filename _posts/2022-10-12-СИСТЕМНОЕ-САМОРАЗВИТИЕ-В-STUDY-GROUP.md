@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## СИСТЕМНОЕ САМОРАЗВИТИЕ В STUDY GROUP
 
